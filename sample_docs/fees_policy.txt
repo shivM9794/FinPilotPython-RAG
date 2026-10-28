@@ -1,0 +1,8 @@
+FinPilot Finance Policy
+
+Monthly Maintenance Fee:
+If the account balance is below INR 10000, the monthly maintenance fee is INR 250.
+
+If the account balance is INR 10000 or above, the monthly maintenance fee is waived.
+
+Customers can contact customer support for questions about account fees.
